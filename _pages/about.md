@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Testing text
+Website still in progress, please pretend it's a great website incase you come across it while I'm working on it!
 
 
 
