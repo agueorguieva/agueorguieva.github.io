@@ -23,23 +23,21 @@ Forthcoming in Proceedings of 2nd Annual Conference International Association fo
 Ethical AI (IASEAI) 2026
 
 Guldimann, P ., Spiridonov, A., Staab, R., Jovanović, N., Vechev, V., Gueorguieva, A-M.,
-Balunović, M., Konstantinov, N., Bielik, P ., Tsankov, P ., Vechev, M. COMPL-AI Framework: A
-Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act
-https://arxiv.org/abs/2410.07959 October 2024
+Balunović, M., Konstantinov, N., Bielik, P ., Tsankov, P ., Vechev, M. [COMPL-AI Framework: A
+Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](https://arxiv.org/abs/2410.07959) October 2024
 
 ### Written Contributions to Community work and Government ###
-Gueorguieva, A-M., Cruz, S., Kallina, E., Kraft-Buchman C., , Human Rights, Transparency,
+Gueorguieva, A-M., Cruz, S., Kallina, E., Kraft-Buchman C., [Human Rights, Transparency,
 and Stakeholder Involvement in AI Accountability: Public Comment Submitted to the United
-States National Telecommunications and Information Administration, <AI &
-Equality>https://aiequalitytoolbox.com/join-us/community-outputs/human-rights-transpar
-ency-and-stakeholder-involvement-in-ai-accountability/ , June 2023. (Cited by NTIA’s AI
+States National Telecommunications and Information Administration](https://aiequalitytoolbox.com/join-us/community-outputs/human-rights-transparency-and-stakeholder-involvement-in-ai-accountability/)  <AI &
+Equality>  , June 2023. (Cited by NTIA’s AI
 Accountability Report) 
 
-Gueorguieva, A-M., The Effectiveness and Future of United States Executive Orders to
-Promote Human-Rights Based Artificial Intelligence, Re-visions of Now & Future:
+Gueorguieva, A-M., [The Effectiveness and Future of United States Executive Orders to
+Promote Human-Rights Based Artificial Intelligence](https://aiequalitytoolbox.com/community/publications/re-visions-of-now-and-future-2/) Re-visions of Now & Future:
 Commentary & Research on Contemporary AI and a Way Forward, Vol. 2, Chapter 2,
 <AI&Equality>,
-https://aiequalitytoolbox.com/community/publications/re-visions-of-now-and-future-2/
+
 October 2024
 
 
