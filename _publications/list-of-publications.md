@@ -1,11 +1,11 @@
----
+<!-- ---
 permalink: /
 title: "Hello!"
 author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
----
+--- -->
 
 ### Peer Reviewed Publications ###
 Gueorguieva, A-M., Caliskan, A., Identifying Features Associated with Bias Against 93
