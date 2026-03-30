@@ -2,6 +2,12 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+hr.pub-divider {
+  border: none;
+  border-top: 2px solid var(--global-link-color);
+  margin: 0.25em 0 1em 0;
+}
+
 #main {
   @include container;
   @include clearfix;
