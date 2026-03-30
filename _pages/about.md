@@ -11,7 +11,7 @@ I am a PhD student at the University of Washington Information School advised by
 
 Before starting my PhD, I received my degrees in Data Science and Legal Studies at UC Berkeley, taught English in Bulgaria via a Fulbright fellowship, and was a research assistant at the [Institute for Computer Science, Artificial Intelligence, and Technology](https://insait.ai/). At Berkeley, I was the student team lead for the [Human Contexts and Ethics of Data](https://cdss.berkeley.edu/dsus/human-contexts-and-ethics#section-el--0) program, a [Coding it Forward](https://codingitforward.com/fellowship) fellow, and helped to establish the global and human-rights centered [&lt;AI &amp; Equality&gt;](https://community.aiequalitytoolbox.com/feed).
 
-I'm a proud attendee of public schools in California's Central Valley. Thanks to the advice and help of others, I've found opportunities and communities I'm passionate about - I'm always happy to chat about any relevant topics or lend a helping hand where possible, just send me an email. 
+Before all of this, I was a proud attendee of public schools in California's Central Valley. Thanks to the advice and help of others, I've found opportunities and communities I'm passionate about - I'm always happy to chat about any relevant topics or lend a helping hand where possible, just send me an email. 
 
 
 
