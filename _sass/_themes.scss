@@ -39,11 +39,11 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$neuton                     : "Neuton", Georgia, serif;
+$lora                       : "Lora", Georgia, serif;
 
-$global-font-family         : $neuton;
-$header-font-family         : $neuton;
-$caption-font-family        : $neuton;
+$global-font-family         : $lora;
+$header-font-family         : $lora;
+$caption-font-family        : $lora;
 
 /* ==========================================================================
    Breakpoints
