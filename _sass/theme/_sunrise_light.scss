@@ -7,7 +7,7 @@ $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #5c8f32;
+$background                 : #466e26;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter        : #ffffff;
 $text                      : #000000;
@@ -36,7 +36,8 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Light theme for the site */
+/* Light theme for the site — disabled, dark mode only */
+/*
 :root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
@@ -55,6 +56,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-light};
 }
+*/
 
 .page__footer-follow .social-icons i,
 .page__footer-follow .social-icons .svg-inline--fa {
