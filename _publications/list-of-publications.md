@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 --- -->
 
-### Peer Reviewed Publications ###
+## Peer reviewed publications
 Gueorguieva, A-M., Caliskan, A., Identifying Features Associated with Bias Against 93
 Stigmatized Groups in Language Models and Mitigation with Guardrail Models, forthcoming
 in Proceedings of the AAAI Conference on Artificial Intelligence, AI Alignment Track 2026
@@ -26,7 +26,7 @@ Guldimann, P ., Spiridonov, A., Staab, R., Jovanović, N., Vechev, V., Gueorguie
 Balunović, M., Konstantinov, N., Bielik, P ., Tsankov, P ., Vechev, M. [COMPL-AI Framework: A
 Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](https://arxiv.org/abs/2410.07959) October 2024
 
-### Written Contributions to Community work and Government ###
+## Other writing and policy contributions
 Gueorguieva, A-M., Cruz, S., Kallina, E., Kraft-Buchman C., [Human Rights, Transparency,
 and Stakeholder Involvement in AI Accountability: Public Comment Submitted to the United
 States National Telecommunications and Information Administration](https://aiequalitytoolbox.com/join-us/community-outputs/human-rights-transparency-and-stakeholder-involvement-in-ai-accountability/)  <AI &
