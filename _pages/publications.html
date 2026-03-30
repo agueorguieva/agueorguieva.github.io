@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% capture pub_content %}{% include_relative ../_publications/list-of-publications.md %}{% endcapture %}
+{% capture pub_content %}{% include list-of-publications.md %}{% endcapture %}
 {{ pub_content | markdownify }}
 
 {% include base_path %}
