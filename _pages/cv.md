@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/gueorguieva_cv_2026.pdf" download>Download CV (PDF)</a>
+<script>
+  window.open("/files/gueorguieva_cv_2026.pdf", "_blank");
+</script>
 
-<iframe src="/files/gueorguieva_cv_2026.pdf" width="100%" height="800px" style="border: none;">
-  Your browser does not support PDFs. <a href="/files/gueorguieva_cv_2026.pdf">Download instead.</a>
-</iframe>
+[Open CV (PDF)](/files/gueorguieva_cv_2026.pdf)
