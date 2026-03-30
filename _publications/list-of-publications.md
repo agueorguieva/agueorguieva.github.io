@@ -29,8 +29,7 @@ Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intell
 ## Other writing and policy contributions
 Gueorguieva, A-M., Cruz, S., Kallina, E., Kraft-Buchman C., [Human Rights, Transparency,
 and Stakeholder Involvement in AI Accountability: Public Comment Submitted to the United
-States National Telecommunications and Information Administration](https://aiequalitytoolbox.com/join-us/community-outputs/human-rights-transparency-and-stakeholder-involvement-in-ai-accountability/)  <AI &
-Equality>  , June 2023. (Cited by NTIA’s AI
+States National Telecommunications and Information Administration](https://aiequalitytoolbox.com/join-us/community-outputs/human-rights-transparency-and-stakeholder-involvement-in-ai-accountability/) &lt;AI &amp; Equality&gt; , June 2023. (Cited by NTIA’s AI
 Accountability Report) 
 
 Gueorguieva, A-M., [The Effectiveness and Future of United States Executive Orders to
