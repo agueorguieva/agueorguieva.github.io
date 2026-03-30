@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "anna-headshot.jpeg"
   name             : "Anna-Maria Gueorguieva"
-  pronouns         : "agueorg@uw.edu, she/her"  
+  pronouns         : "she/her"
  # bio              : "PhD student at the University of Washington Information researching ___"
  # location         : "Seattle, WA"
  # employer         : "University of Washington"
 #  uri              : # URL
- # email           : "agueorg@uw.edu" 
+  email            : "agueorg@uw.edu"
 
   # Academic websites
   academia         : # URL
